@@ -13,7 +13,7 @@ namespace testthreads
             for (int i = 0; i < 10; i++)
             {
                 var thread = new Thread(AquireMutex);
-                thread.Start($"Thread {i+1}");
+                thread.Start($"Thread {i + 1}");
             }   
         }
 
