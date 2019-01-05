@@ -1,7 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Savachebra\\.nuget\\packages"
+      "C:\\Users\\savachebra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\savachebra\\.nuget\\packages"
     ]
   }
 }
